@@ -1,2 +1,2 @@
-# scripture-unbound.github.io
+# Scripture Unbound
 Scripture Unbound Blog
