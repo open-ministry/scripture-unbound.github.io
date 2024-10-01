@@ -1,5 +1,5 @@
-source      : .
-theme       : jekyll-theme-cayman
+source        : .
+remote-theme  : jekyll-theme-hamilton
 
-title       : Scripture Unbound
-description : Seeking truth in Scripture, unbound by tradition and dogma
+title         : Scripture Unbound
+description   : Seeking truth in Scripture, unbound by tradition and dogma
