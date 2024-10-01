@@ -1,4 +1,6 @@
 source        : .
+plugins       :
+  - jekyll-remote-theme
 remote-theme  : jekyll-theme-hamilton
 
 title         : Scripture Unbound
